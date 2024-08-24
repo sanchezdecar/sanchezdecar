@@ -7,7 +7,6 @@ I'm currently immersed in the world of full stack development, where I'm expandi
 🌱 Current Learning
 
 - Full Stack Development: Diving into technologies such as HTML, CSS, JavaScript, Node.js, and databases.
-- Frameworks: Exploring popular frameworks and libraries like React, Angular, and Express.
 - Best Practices: Continuously improving my knowledge of software development best practices and design patterns.
 
 💡 What I'm Looking For
